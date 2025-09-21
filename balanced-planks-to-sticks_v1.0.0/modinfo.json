@@ -5,7 +5,7 @@
   "authors": ["Mantisek"],
   "description": "Adds a recipe to cut planks into sticks using an axe, but it's costly enough to not invalidate using shears. Shears should stay superior, but maybe you don't want to make a forest hideous or go on yet another field trip just for sticks",
   "version": "1.0.0",
-  "dependency": {
+  "dependencies": {
     "game": "1.21.0"
   }
 }
