@@ -1,0 +1,12 @@
+[
+    {
+                ingredientPattern: "A,P",
+                ingredients: {
+                        "A": { type: "item", code: "game:axe-*", isTool: true }, 
+                        "P": { type: "item", code: "game:plank-*", name: "wood", quantity: 3, skipVariants: ["agedebony", "rottenebony"] },
+                },
+                width: 1,
+                height: 2,
+                output: { type: "item", code: "game:stick", quantity: 2  }
+        }
+]
